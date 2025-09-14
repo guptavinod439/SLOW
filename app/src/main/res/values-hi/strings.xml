@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SLOW</string>
+
+    <string name="new_user_sign_up"><u>  नए उपयोगकर्ता साइन अप करें</u></string>
+    <string name="sign_in_btn"><u>दाखिल करना</u></string>
+    <string name="title_activity_navigation_drawer">नेविगेशन दराज गतिविधि</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">सेटिंग</string>
+    <string name="finish">ProgressBar is finished.</string>
+    <string name="book_ambulance">पुस्तक एम्बुलेंस</string>
+    <string name="hometitle">पएम्बुलेंस बुकिंग</string>
+    <string name="title_activity_maps">नक्शा</string>
+    <string name="choose_language">भाषा चुनें</string>
+    <string name="username">नाम</string>
+    <string name="sign_in_with_google">गूगल के साथ साइन इन करें</string>
+</resources>
