@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SLOW DRIVER</string>
+
+    <string name="new_user_sign_up"><u>New user?  Sign up</u></string>
+    <string name="sign_in"><u>Already Registered? Sign in</u></string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="finish">ProgressBar is finished.</string>
+    <string name="book_ambulance">Book Ambulance</string>
+    <string name="hometitle">Book Ambulance</string>
+    <string name="google_direction_api">AIzaSyB6ojcQEDr_Bm1Rig27HYZ03BW76IGrZGU</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="title_activity_welcome">Map</string>
+
+</resources>
